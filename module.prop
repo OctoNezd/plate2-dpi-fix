@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v1.6
-versionCode=7
-author=Zackptg5
+id=plate2-dpi-fix
+name=Nokia 6.1 DPI on custom ROM Fix
+version=v1
+versionCode=1
+author=mrvn4
 description=
-support=https://forum.xda-developers.com/apps/magisk/MMT-Extended
+support=https://t.me/nokia_sdm660
